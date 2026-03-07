@@ -1,0 +1,91 @@
+{
+  "_comment": "PLATE WIZ Theme Configuration. Edit values to change the app's appearance.",
+  "colors": {
+    "primary": "#1A5276",
+    "primaryLight": "#2E86C1",
+    "primaryDark": "#0E3A5C",
+    "secondary": "#F39C12",
+    "secondaryLight": "#F7C948",
+    "accent": "#E74C3C",
+    "background": "#0D1B2A",
+    "backgroundLight": "#1B2838",
+    "surface": "#FFFFFF",
+    "surfaceElevated": "#F8F9FA",
+    "text": "#FFFFFF",
+    "textDark": "#1A1A2E",
+    "textMuted": "#7F8C8D",
+    "success": "#27AE60",
+    "error": "#E74C3C",
+    "warning": "#F39C12",
+    "timerNormal": "#27AE60",
+    "timerWarning": "#F39C12",
+    "timerDanger": "#E74C3C"
+  },
+  "typography": {
+    "fontFamily": {
+      "heading": "System",
+      "body": "System",
+      "plate": "Courier",
+      "mono": "Courier"
+    },
+    "fontSize": {
+      "xs": 12,
+      "sm": 14,
+      "base": 16,
+      "lg": 18,
+      "xl": 22,
+      "2xl": 28,
+      "3xl": 36,
+      "4xl": 48
+    },
+    "fontWeight": {
+      "normal": "400",
+      "medium": "500",
+      "semibold": "600",
+      "bold": "700",
+      "black": "900"
+    }
+  },
+  "spacing": {
+    "xs": 4,
+    "sm": 8,
+    "md": 16,
+    "lg": 24,
+    "xl": 32,
+    "2xl": 48
+  },
+  "borderRadius": {
+    "none": 0,
+    "sm": 4,
+    "md": 8,
+    "lg": 12,
+    "xl": 16,
+    "full": 9999
+  },
+  "animation": {
+    "plateRevealDuration": 600,
+    "scoreUpdateDuration": 400,
+    "timerTickInterval": 1000,
+    "correctAnswerDelay": 1200,
+    "wrongAnswerShake": 300,
+    "transitionDuration": 250
+  },
+  "plate": {
+    "width": 300,
+    "height": 150,
+    "borderWidth": 3,
+    "borderColor": "#333333",
+    "borderRadius": 8,
+    "textColor": "#1A1A2E",
+    "backgroundColor": "#FFFFFF",
+    "embossedShadow": true,
+    "fontSize": 42
+  },
+  "game": {
+    "timerHeight": 6,
+    "scoreDisplaySize": 32,
+    "optionButtonHeight": 56,
+    "optionSpacing": 12,
+    "headerHeight": 64
+  }
+}
