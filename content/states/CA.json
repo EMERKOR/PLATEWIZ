@@ -1,0 +1,22 @@
+{
+  "state_code": "CA",
+  "state_name": "California",
+  "capital": "Sacramento",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [],
+  "nickname": "The Golden State",
+  "symbols": [],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Pacific",
+  "notable_facts": [
+    "California issued its first personalized vanity plate in late 1970.",
+    "As of 2007, over 1.4 million vanity plates were on California roads, generating over $1 billion for environmental programs.",
+    "California offers multiple standard plate designs including the legacy black-and-gold style.",
+    "Steve Jobs leased a new silver Mercedes SL55 AMG every six months to exploit a California loophole allowing new cars six months before plates were required. He never had plates."
+  ]
+}

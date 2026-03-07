@@ -1,0 +1,22 @@
+{
+  "state_code": "MO",
+  "state_name": "Missouri",
+  "capital": "Jefferson City",
+  "slogan": "Show-Me State",
+  "slogan_since": 1980,
+  "previous_slogans": [],
+  "nickname": "The Show-Me State",
+  "symbols": [
+    "bluebird",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Missouri's 'Show-Me State' is one of the most recognized state nicknames in the country."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "state_code": "MS",
+  "state_name": "Mississippi",
+  "capital": "Jackson",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "The Hospitality State",
+    "Birthplace of America's Music"
+  ],
+  "nickname": "The Magnolia State",
+  "symbols": [
+    "guitar",
+    "magnolia",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Mississippi places the full county name on standard-issue plates.",
+    "Mississippi offers 291 distinct plate designs."
+  ]
+}

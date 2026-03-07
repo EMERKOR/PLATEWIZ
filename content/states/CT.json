@@ -1,0 +1,20 @@
+{
+  "state_code": "CT",
+  "state_name": "Connecticut",
+  "capital": "Hartford",
+  "slogan": "Constitution State",
+  "slogan_since": 1974,
+  "previous_slogans": [],
+  "nickname": "The Constitution State",
+  "symbols": [],
+  "plate_colors": {
+    "background": "#000080",
+    "text": "#FFFFFF",
+    "accent": "#FFFFFF"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Connecticut's plates feature a navy blue background.",
+    "The 'Constitution State' refers not to the US Constitution but to the Fundamental Orders of 1639, early local government rules."
+  ]
+}

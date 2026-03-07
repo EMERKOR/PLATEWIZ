@@ -1,0 +1,25 @@
+{
+  "state_code": "AR",
+  "state_name": "Arkansas",
+  "capital": "Little Rock",
+  "slogan": "The Natural State",
+  "slogan_since": 1995,
+  "previous_slogans": [
+    "Land of Opportunity (1947-1995)"
+  ],
+  "nickname": "The Natural State",
+  "symbols": [
+    "diamond",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Arkansas's plate features a diamond image, symbolizing one of its most notable natural resources.",
+    "Arkansas changed from 'Land of Opportunity' to 'The Natural State' in 1995."
+  ]
+}

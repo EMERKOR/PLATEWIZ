@@ -1,0 +1,20 @@
+{
+  "state_code": "NJ",
+  "state_name": "New Jersey",
+  "capital": "Trenton",
+  "slogan": "Garden State",
+  "slogan_since": 1959,
+  "previous_slogans": [],
+  "nickname": "The Garden State",
+  "symbols": [],
+  "plate_colors": {
+    "background": "#FFFFCC",
+    "text": "#000080",
+    "accent": "#000080"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "New Jersey's plates are noted for their yellow gradient background.",
+    "New Jersey offers an 'animal friendly' plate featuring characters from the comic strip Mutts."
+  ]
+}

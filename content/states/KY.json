@@ -1,0 +1,25 @@
+{
+  "state_code": "KY",
+  "state_name": "Kentucky",
+  "capital": "Frankfort",
+  "slogan": "Unbridled Spirit",
+  "slogan_since": 2005,
+  "previous_slogans": [
+    "Bluegrass State"
+  ],
+  "nickname": "The Bluegrass State",
+  "symbols": [
+    "horse",
+    "rolling hills"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#FFD700"
+  },
+  "time_zone": "Eastern/Central",
+  "notable_facts": [
+    "Kentucky places the full county name on standard-issue plates.",
+    "Kentucky offers both standard and 'In God We Trust' variants."
+  ]
+}

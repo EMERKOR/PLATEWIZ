@@ -1,0 +1,27 @@
+{
+  "state_code": "UT",
+  "state_name": "Utah",
+  "capital": "Salt Lake City",
+  "slogan": "Life Elevated",
+  "slogan_since": 2006,
+  "previous_slogans": [
+    "Greatest Snow on Earth",
+    "The Beehive State"
+  ],
+  "nickname": "The Beehive State",
+  "symbols": [
+    "Delicate Arch",
+    "skier",
+    "beehive"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Mountain",
+  "notable_facts": [
+    "Utah offers multiple standard-issue options including a 'Life Elevated Skier' and 'Life Elevated Arches' design.",
+    "The Delicate Arch design shows the iconic natural formation at Arches National Park."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "state_code": "RI",
+  "state_name": "Rhode Island",
+  "capital": "Providence",
+  "slogan": "Ocean State",
+  "slogan_since": 1972,
+  "previous_slogans": [],
+  "nickname": "The Ocean State",
+  "symbols": [
+    "wave graphic",
+    "anchor"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#000080"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "America's smallest state has a wave graphic illustrating its 'Ocean State' identity.",
+    "Rhode Island's Rose Island Lighthouse plate was voted best plate of 2024 by ALPCA."
+  ]
+}

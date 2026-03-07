@@ -1,0 +1,22 @@
+{
+  "state_code": "OR",
+  "state_name": "Oregon",
+  "capital": "Salem",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [],
+  "nickname": "The Beaver State",
+  "symbols": [
+    "Douglas fir tree",
+    "mountains"
+  ],
+  "plate_colors": {
+    "background": "#FFD700",
+    "text": "#000080",
+    "accent": "#006633"
+  },
+  "time_zone": "Pacific",
+  "notable_facts": [
+    "Oregon's 'Tree' plate features the state tree, the Douglas fir, against a mountainous backdrop."
+  ]
+}

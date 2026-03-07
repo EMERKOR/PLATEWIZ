@@ -1,0 +1,23 @@
+{
+  "state_code": "HI",
+  "state_name": "Hawaii",
+  "capital": "Honolulu",
+  "slogan": "Aloha State",
+  "slogan_since": 1991,
+  "previous_slogans": [],
+  "nickname": "The Aloha State",
+  "symbols": [
+    "rainbow",
+    "King Kamehameha"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000000",
+    "accent": "#FF0000"
+  },
+  "time_zone": "Hawaii",
+  "notable_facts": [
+    "Hawaii offers the fewest plate designs of any state, with just 14 options.",
+    "In 2022, Hawaii's 'Polynesian Voyaging' plate was chosen as 'Best New Plate' by ALPCA."
+  ]
+}

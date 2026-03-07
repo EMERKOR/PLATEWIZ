@@ -1,0 +1,26 @@
+{
+  "state_code": "AK",
+  "state_name": "Alaska",
+  "capital": "Juneau",
+  "slogan": "The Last Frontier",
+  "slogan_since": 1970,
+  "previous_slogans": [
+    "North to the Future"
+  ],
+  "nickname": "The Last Frontier",
+  "symbols": [
+    "bear",
+    "flag",
+    "mountains"
+  ],
+  "plate_colors": {
+    "background": "#FFD700",
+    "text": "#00008B",
+    "accent": "#FFD700"
+  },
+  "time_zone": "Alaska",
+  "notable_facts": [
+    "Alaska celebrated the Centennial of the Klondike Gold Rush in 1998 with special plates showing prospectors.",
+    "Alaska has preferred yellow and blue color schemes for its plates."
+  ]
+}

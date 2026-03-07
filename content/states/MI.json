@@ -1,0 +1,27 @@
+{
+  "state_code": "MI",
+  "state_name": "Michigan",
+  "capital": "Lansing",
+  "slogan": "Spectacular Peninsulas",
+  "slogan_since": 2013,
+  "previous_slogans": [
+    "Pure Michigan",
+    "Great Lakes State"
+  ],
+  "nickname": "The Great Lakes State",
+  "symbols": [
+    "peninsulas",
+    "Great Lakes",
+    "Mackinac Bridge"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#006633"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Michigan offers multiple standard-issue options, including the 'Spectacular Peninsulas' plate.",
+    "The plate displays Michigan's best-known features: the peninsulas, Great Lakes, and Mackinac Bridge."
+  ]
+}

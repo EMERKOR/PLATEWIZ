@@ -1,0 +1,25 @@
+{
+  "state_code": "AL",
+  "state_name": "Alabama",
+  "capital": "Montgomery",
+  "slogan": "Stars Fell on Alabama",
+  "slogan_since": 2002,
+  "previous_slogans": [
+    "Heart of Dixie (1955-2002)"
+  ],
+  "nickname": "The Yellowhammer State",
+  "symbols": [
+    "stars",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#CC0000",
+    "accent": "#0000CC"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Alabama's 'Heart of Dixie' slogan was controversial and replaced with 'Stars Fell on Alabama' in 2002.",
+    "Some drivers place 'Heart of Dixie' decals over the current slogan in protest."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "state_code": "OH",
+  "state_name": "Ohio",
+  "capital": "Columbus",
+  "slogan": "Birthplace of Aviation",
+  "slogan_since": 1998,
+  "previous_slogans": [
+    "The Heart of It All"
+  ],
+  "nickname": "The Buckeye State",
+  "symbols": [
+    "Wright Flyer",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#CC0000",
+    "accent": "#000080"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Ohio adopted 'Birthplace of Aviation' because the Wright Brothers were native Ohioans.",
+    "Ohio has since moved the slogan into background lettering along with 'Heart of It All'.",
+    "Ohio places a two-number county code sticker on plates."
+  ]
+}

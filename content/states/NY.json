@@ -1,0 +1,26 @@
+{
+  "state_code": "NY",
+  "state_name": "New York",
+  "capital": "Albany",
+  "slogan": "Excelsior",
+  "slogan_since": 2020,
+  "previous_slogans": [
+    "The Empire State",
+    "I Love NY"
+  ],
+  "nickname": "The Empire State",
+  "symbols": [
+    "Statue of Liberty",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#000080",
+    "text": "#FFD700",
+    "accent": "#FFFFFF"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "New York was the first state to require a registration plate on vehicles, in 1903.",
+    "New York is known as the 'Birthplace of Road Rage' informally."
+  ]
+}

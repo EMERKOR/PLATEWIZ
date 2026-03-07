@@ -1,0 +1,25 @@
+{
+  "state_code": "SD",
+  "state_name": "South Dakota",
+  "capital": "Pierre",
+  "slogan": "Great Faces, Great Places",
+  "slogan_since": 1992,
+  "previous_slogans": [
+    "The Sunshine State (before Florida)",
+    "Land of Infinite Variety"
+  ],
+  "nickname": "The Mount Rushmore State",
+  "symbols": [
+    "Mount Rushmore"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#000000"
+  },
+  "time_zone": "Central/Mountain",
+  "notable_facts": [
+    "South Dakota's 'Great Faces, Great Places' is a nod to Mount Rushmore.",
+    "South Dakota actually used 'The Sunshine State' before Florida did."
+  ]
+}

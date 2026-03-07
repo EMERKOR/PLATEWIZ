@@ -1,0 +1,1245 @@
+{
+  "states": [
+    {
+      "state_code": "AL",
+      "state_name": "Alabama",
+      "capital": "Montgomery",
+      "slogan": "Stars Fell on Alabama",
+      "slogan_since": 2002,
+      "previous_slogans": [
+        "Heart of Dixie (1955-2002)"
+      ],
+      "nickname": "The Yellowhammer State",
+      "symbols": [
+        "stars",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#CC0000",
+        "accent": "#0000CC"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Alabama's 'Heart of Dixie' slogan was controversial and replaced with 'Stars Fell on Alabama' in 2002.",
+        "Some drivers place 'Heart of Dixie' decals over the current slogan in protest."
+      ]
+    },
+    {
+      "state_code": "AK",
+      "state_name": "Alaska",
+      "capital": "Juneau",
+      "slogan": "The Last Frontier",
+      "slogan_since": 1970,
+      "previous_slogans": [
+        "North to the Future"
+      ],
+      "nickname": "The Last Frontier",
+      "symbols": [
+        "bear",
+        "flag",
+        "mountains"
+      ],
+      "plate_colors": {
+        "background": "#FFD700",
+        "text": "#00008B",
+        "accent": "#FFD700"
+      },
+      "time_zone": "Alaska",
+      "notable_facts": [
+        "Alaska celebrated the Centennial of the Klondike Gold Rush in 1998 with special plates showing prospectors.",
+        "Alaska has preferred yellow and blue color schemes for its plates."
+      ]
+    },
+    {
+      "state_code": "AZ",
+      "state_name": "Arizona",
+      "capital": "Phoenix",
+      "slogan": "Grand Canyon State",
+      "slogan_since": 1940,
+      "previous_slogans": [],
+      "nickname": "The Grand Canyon State",
+      "symbols": [
+        "saguaro cactus",
+        "sunset",
+        "Grand Canyon"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#CC0000",
+        "accent": "#FFD700"
+      },
+      "time_zone": "Mountain",
+      "notable_facts": [
+        "Arizona has used 'Grand Canyon State' since 1940, making it one of the longest-running slogans.",
+        "Arizona's plate features a distinctive sunset gradient design."
+      ]
+    },
+    {
+      "state_code": "AR",
+      "state_name": "Arkansas",
+      "capital": "Little Rock",
+      "slogan": "The Natural State",
+      "slogan_since": 1995,
+      "previous_slogans": [
+        "Land of Opportunity (1947-1995)"
+      ],
+      "nickname": "The Natural State",
+      "symbols": [
+        "diamond",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Arkansas's plate features a diamond image, symbolizing one of its most notable natural resources.",
+        "Arkansas changed from 'Land of Opportunity' to 'The Natural State' in 1995."
+      ]
+    },
+    {
+      "state_code": "CA",
+      "state_name": "California",
+      "capital": "Sacramento",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [],
+      "nickname": "The Golden State",
+      "symbols": [],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Pacific",
+      "notable_facts": [
+        "California issued its first personalized vanity plate in late 1970.",
+        "As of 2007, over 1.4 million vanity plates were on California roads, generating over $1 billion for environmental programs.",
+        "California offers multiple standard plate designs including the legacy black-and-gold style.",
+        "Steve Jobs leased a new silver Mercedes SL55 AMG every six months to exploit a California loophole allowing new cars six months before plates were required. He never had plates."
+      ]
+    },
+    {
+      "state_code": "CO",
+      "state_name": "Colorado",
+      "capital": "Denver",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "Colorful Colorado"
+      ],
+      "nickname": "The Centennial State",
+      "symbols": [
+        "mountains",
+        "green and white design"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#006633",
+        "accent": "#006633"
+      },
+      "time_zone": "Mountain",
+      "notable_facts": [
+        "Colorado's plate is embossed with a mountain design, fitting for the Rocky Mountain state.",
+        "The style hasn't changed much since the 1960s, making it one of the oldest active designs."
+      ]
+    },
+    {
+      "state_code": "CT",
+      "state_name": "Connecticut",
+      "capital": "Hartford",
+      "slogan": "Constitution State",
+      "slogan_since": 1974,
+      "previous_slogans": [],
+      "nickname": "The Constitution State",
+      "symbols": [],
+      "plate_colors": {
+        "background": "#000080",
+        "text": "#FFFFFF",
+        "accent": "#FFFFFF"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Connecticut's plates feature a navy blue background.",
+        "The 'Constitution State' refers not to the US Constitution but to the Fundamental Orders of 1639, early local government rules."
+      ]
+    },
+    {
+      "state_code": "DE",
+      "state_name": "Delaware",
+      "capital": "Dover",
+      "slogan": "The First State",
+      "slogan_since": 1963,
+      "previous_slogans": [],
+      "nickname": "The First State",
+      "symbols": [],
+      "plate_colors": {
+        "background": "#000000",
+        "text": "#FFD700",
+        "accent": "#FFD700"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Delaware's plates have featured gold text on a black background since the 1960s.",
+        "Delaware has the oldest plate design currently in use, dating to 1959.",
+        "Delaware ratified the US Constitution before any other state on December 7, 1787."
+      ]
+    },
+    {
+      "state_code": "DC",
+      "state_name": "District of Columbia",
+      "capital": "Washington",
+      "slogan": "End Taxation Without Representation",
+      "slogan_since": 2017,
+      "previous_slogans": [
+        "Taxation Without Representation (2000-2017)",
+        "Nation's Capital (1954-1984)",
+        "A Capital City (1985-2000)"
+      ],
+      "nickname": "DC",
+      "symbols": [
+        "flag",
+        "Capitol dome"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#CC0000",
+        "accent": "#000000"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "DC's plate carries a politically charged slogan protesting the lack of voting representation in Congress.",
+        "The slogan was updated from 'Taxation Without Representation' to 'End Taxation Without Representation' in 2017."
+      ]
+    },
+    {
+      "state_code": "FL",
+      "state_name": "Florida",
+      "capital": "Tallahassee",
+      "slogan": "Sunshine State",
+      "slogan_since": 1949,
+      "previous_slogans": [],
+      "nickname": "The Sunshine State",
+      "symbols": [
+        "oranges",
+        "state outline",
+        "sunshine"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#006633",
+        "accent": "#FF8C00"
+      },
+      "time_zone": "Eastern/Central",
+      "notable_facts": [
+        "Florida allows residents to choose either 'Sunshine State' or 'In God We Trust' in place of the county name.",
+        "Florida currently offers 122 specialty plates."
+      ]
+    },
+    {
+      "state_code": "GA",
+      "state_name": "Georgia",
+      "capital": "Atlanta",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "Peach State"
+      ],
+      "nickname": "The Peach State",
+      "symbols": [
+        "peach",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Georgia allows residents to choose from the county name or 'In God We Trust'.",
+        "Georgia places the full name of the county of registration on standard-issue plates."
+      ]
+    },
+    {
+      "state_code": "HI",
+      "state_name": "Hawaii",
+      "capital": "Honolulu",
+      "slogan": "Aloha State",
+      "slogan_since": 1991,
+      "previous_slogans": [],
+      "nickname": "The Aloha State",
+      "symbols": [
+        "rainbow",
+        "King Kamehameha"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#FF0000"
+      },
+      "time_zone": "Hawaii",
+      "notable_facts": [
+        "Hawaii offers the fewest plate designs of any state, with just 14 options.",
+        "In 2022, Hawaii's 'Polynesian Voyaging' plate was chosen as 'Best New Plate' by ALPCA."
+      ]
+    },
+    {
+      "state_code": "ID",
+      "state_name": "Idaho",
+      "capital": "Boise",
+      "slogan": "Famous Potatoes",
+      "slogan_since": 1948,
+      "previous_slogans": [
+        "Idaho Potatoes (1928-1948)"
+      ],
+      "nickname": "The Gem State",
+      "symbols": [
+        "mountains",
+        "license plate outline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#CC0000",
+        "accent": "#000000"
+      },
+      "time_zone": "Mountain",
+      "notable_facts": [
+        "Idaho was the first state to feature a slogan on its license plate, in 1928, reading 'IDAHO POTATOES'.",
+        "The official state motto is 'Esto Perpetua' (Let it be perpetual), but the plate uses the more commercial 'Famous Potatoes'."
+      ]
+    },
+    {
+      "state_code": "IL",
+      "state_name": "Illinois",
+      "capital": "Springfield",
+      "slogan": "Land of Lincoln",
+      "slogan_since": 1954,
+      "previous_slogans": [],
+      "nickname": "The Prairie State",
+      "symbols": [
+        "Abraham Lincoln silhouette",
+        "Capitol dome",
+        "Chicago skyline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Illinois has featured 'Land of Lincoln' since 1954, one of the longest-running slogans.",
+        "The newest plate design features the Capitol dome, the Chicago skyline, and half of Abraham Lincoln's face."
+      ]
+    },
+    {
+      "state_code": "IN",
+      "state_name": "Indiana",
+      "capital": "Indianapolis",
+      "slogan": "The Crossroads of America",
+      "slogan_since": 1976,
+      "previous_slogans": [
+        "Hoosier State",
+        "Wander",
+        "Drive Safely"
+      ],
+      "nickname": "The Hoosier State",
+      "symbols": [
+        "torch",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Indiana's 1976 Bicentennial plate began a series with no repeating slogans, cycling through multiple options.",
+        "The first 'In God We Trust' no-cost optional plate launched in 2008."
+      ]
+    },
+    {
+      "state_code": "IA",
+      "state_name": "Iowa",
+      "capital": "Des Moines",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "The Corn State (1953, one year only)"
+      ],
+      "nickname": "The Hawkeye State",
+      "symbols": [
+        "county name",
+        "state silhouette"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Iowa used 'The Corn State' slogan for only one year, 1953, the only time it included a slogan.",
+        "Iowa places the full county name on standard-issue plates."
+      ]
+    },
+    {
+      "state_code": "KS",
+      "state_name": "Kansas",
+      "capital": "Topeka",
+      "slogan": "To the Stars",
+      "slogan_since": 2024,
+      "previous_slogans": [
+        "Midway USA (1965-1970)"
+      ],
+      "nickname": "The Sunflower State",
+      "symbols": [
+        "wheat",
+        "bison",
+        "sunflower"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#FFD700"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Kansas went nearly 50 years without a plate slogan before adding 'To the Stars' in 2024.",
+        "The slogan is based on the state motto 'Ad Astra Per Aspera' (To the stars through difficulty)."
+      ]
+    },
+    {
+      "state_code": "KY",
+      "state_name": "Kentucky",
+      "capital": "Frankfort",
+      "slogan": "Unbridled Spirit",
+      "slogan_since": 2005,
+      "previous_slogans": [
+        "Bluegrass State"
+      ],
+      "nickname": "The Bluegrass State",
+      "symbols": [
+        "horse",
+        "rolling hills"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#FFD700"
+      },
+      "time_zone": "Eastern/Central",
+      "notable_facts": [
+        "Kentucky places the full county name on standard-issue plates.",
+        "Kentucky offers both standard and 'In God We Trust' variants."
+      ]
+    },
+    {
+      "state_code": "LA",
+      "state_name": "Louisiana",
+      "capital": "Baton Rouge",
+      "slogan": "Sportsman's Paradise",
+      "slogan_since": 1958,
+      "previous_slogans": [],
+      "nickname": "The Pelican State",
+      "symbols": [
+        "pelican",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Louisiana's 'Sportsman's Paradise' reflects pride in the state's hunting and fishing options.",
+        "The pelican is Louisiana's state bird and features on many plate designs."
+      ]
+    },
+    {
+      "state_code": "ME",
+      "state_name": "Maine",
+      "capital": "Augusta",
+      "slogan": "Vacationland",
+      "slogan_since": 1936,
+      "previous_slogans": [],
+      "nickname": "The Pine Tree State",
+      "symbols": [
+        "pine cone",
+        "black-capped chickadee",
+        "lobster"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Maine's 'Vacationland' is the oldest continuously used license plate slogan in the United States, in use since 1936.",
+        "The pine cone and chickadee (state bird) appear on the standard plate design."
+      ]
+    },
+    {
+      "state_code": "MD",
+      "state_name": "Maryland",
+      "capital": "Annapolis",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "War of 1812 (2010-2016, bicentennial)"
+      ],
+      "nickname": "The Old Line State",
+      "symbols": [
+        "state flag",
+        "Calvert coat of arms"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Maryland leads the nation with approximately 989 distinct plate designs.",
+        "The current plate incorporates the distinctive state flag design.",
+        "Maryland's National Speleological Society plate had only one registered user between 2018-2022."
+      ]
+    },
+    {
+      "state_code": "MA",
+      "state_name": "Massachusetts",
+      "capital": "Boston",
+      "slogan": "The Spirit of America",
+      "slogan_since": 1987,
+      "previous_slogans": [],
+      "nickname": "The Bay State",
+      "symbols": [],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#CC0000",
+        "accent": "#000080"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Massachusetts' slogan is a truncated version of the former motto: 'The Spirit of Massachusetts is the Spirit of America'.",
+        "The last number on Massachusetts plates indicates the month of registration expiration."
+      ]
+    },
+    {
+      "state_code": "MI",
+      "state_name": "Michigan",
+      "capital": "Lansing",
+      "slogan": "Spectacular Peninsulas",
+      "slogan_since": 2013,
+      "previous_slogans": [
+        "Pure Michigan",
+        "Great Lakes State"
+      ],
+      "nickname": "The Great Lakes State",
+      "symbols": [
+        "peninsulas",
+        "Great Lakes",
+        "Mackinac Bridge"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#006633"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Michigan offers multiple standard-issue options, including the 'Spectacular Peninsulas' plate.",
+        "The plate displays Michigan's best-known features: the peninsulas, Great Lakes, and Mackinac Bridge."
+      ]
+    },
+    {
+      "state_code": "MN",
+      "state_name": "Minnesota",
+      "capital": "Saint Paul",
+      "slogan": "Explore Minnesota",
+      "slogan_since": 2017,
+      "previous_slogans": [
+        "10,000 Lakes"
+      ],
+      "nickname": "The North Star State",
+      "symbols": [
+        "loon",
+        "lake scene",
+        "trees"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#000000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Minnesota's plate design has been in use since 1978, one of the oldest active designs.",
+        "The loon is Minnesota's state bird and is closely associated with the state's identity."
+      ]
+    },
+    {
+      "state_code": "MS",
+      "state_name": "Mississippi",
+      "capital": "Jackson",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "The Hospitality State",
+        "Birthplace of America's Music"
+      ],
+      "nickname": "The Magnolia State",
+      "symbols": [
+        "guitar",
+        "magnolia",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Mississippi places the full county name on standard-issue plates.",
+        "Mississippi offers 291 distinct plate designs."
+      ]
+    },
+    {
+      "state_code": "MO",
+      "state_name": "Missouri",
+      "capital": "Jefferson City",
+      "slogan": "Show-Me State",
+      "slogan_since": 1980,
+      "previous_slogans": [],
+      "nickname": "The Show-Me State",
+      "symbols": [
+        "bluebird",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Missouri's 'Show-Me State' is one of the most recognized state nicknames in the country."
+      ]
+    },
+    {
+      "state_code": "MT",
+      "state_name": "Montana",
+      "capital": "Helena",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "Big Sky Country",
+        "The Treasure State"
+      ],
+      "nickname": "Big Sky Country",
+      "symbols": [
+        "mountains",
+        "sky",
+        "skull emblem"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#FFD700"
+      },
+      "time_zone": "Mountain",
+      "notable_facts": [
+        "Montana's plates feature mountain and sky imagery reflecting the 'Big Sky Country' nickname."
+      ]
+    },
+    {
+      "state_code": "NE",
+      "state_name": "Nebraska",
+      "capital": "Lincoln",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "The Good Life"
+      ],
+      "nickname": "The Cornhusker State",
+      "symbols": [
+        "Chimney Rock",
+        "covered wagon"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Nebraska offers a Planned Parenthood plate displaying 'My Body, My Choice', one of only a few states to do so."
+      ]
+    },
+    {
+      "state_code": "NV",
+      "state_name": "Nevada",
+      "capital": "Carson City",
+      "slogan": "Home Means Nevada",
+      "slogan_since": 1982,
+      "previous_slogans": [
+        "The Silver State"
+      ],
+      "nickname": "The Silver State",
+      "symbols": [
+        "mountain",
+        "desert landscape"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#000000"
+      },
+      "time_zone": "Pacific",
+      "notable_facts": [
+        "The treatment uses a Nevada plate with 'Nevada Means Home' as a 'Plate or Fake' example \u2014 the real slogan is 'Home Means Nevada'.",
+        "Nevada's plates feature a mountain and desert landscape."
+      ]
+    },
+    {
+      "state_code": "NH",
+      "state_name": "New Hampshire",
+      "capital": "Concord",
+      "slogan": "Live Free or Die",
+      "slogan_since": 1971,
+      "previous_slogans": [
+        "Scenic"
+      ],
+      "nickname": "The Granite State",
+      "symbols": [
+        "Old Man of the Mountain (collapsed 2003)"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#006633",
+        "accent": "#006633"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "New Hampshire unquestionably has the most famous license plate slogan in America.",
+        "The Old Man of the Mountain granite cliff formation, which appeared on plates, collapsed in 2003."
+      ]
+    },
+    {
+      "state_code": "NJ",
+      "state_name": "New Jersey",
+      "capital": "Trenton",
+      "slogan": "Garden State",
+      "slogan_since": 1959,
+      "previous_slogans": [],
+      "nickname": "The Garden State",
+      "symbols": [],
+      "plate_colors": {
+        "background": "#FFFFCC",
+        "text": "#000080",
+        "accent": "#000080"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "New Jersey's plates are noted for their yellow gradient background.",
+        "New Jersey offers an 'animal friendly' plate featuring characters from the comic strip Mutts."
+      ]
+    },
+    {
+      "state_code": "NM",
+      "state_name": "New Mexico",
+      "capital": "Santa Fe",
+      "slogan": "Land of Enchantment",
+      "slogan_since": 1941,
+      "previous_slogans": [],
+      "nickname": "The Land of Enchantment",
+      "symbols": [
+        "Zia sun symbol",
+        "hot air balloons"
+      ],
+      "plate_colors": {
+        "background": "#FFD700",
+        "text": "#CC0000",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Mountain",
+      "notable_facts": [
+        "New Mexico's distinctive red and yellow plate features the Zia sun symbol.",
+        "'Land of Enchantment' has been on plates since 1941."
+      ]
+    },
+    {
+      "state_code": "NY",
+      "state_name": "New York",
+      "capital": "Albany",
+      "slogan": "Excelsior",
+      "slogan_since": 2020,
+      "previous_slogans": [
+        "The Empire State",
+        "I Love NY"
+      ],
+      "nickname": "The Empire State",
+      "symbols": [
+        "Statue of Liberty",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#000080",
+        "text": "#FFD700",
+        "accent": "#FFFFFF"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "New York was the first state to require a registration plate on vehicles, in 1903.",
+        "New York is known as the 'Birthplace of Road Rage' informally."
+      ]
+    },
+    {
+      "state_code": "NC",
+      "state_name": "North Carolina",
+      "capital": "Raleigh",
+      "slogan": "First in Flight",
+      "slogan_since": 1982,
+      "previous_slogans": [],
+      "nickname": "The Tar Heel State",
+      "symbols": [
+        "Wright Brothers' plane"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#CC0000",
+        "accent": "#000080"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "North Carolina's 'First in Flight' references the Wright Brothers' flights at Kitty Hawk.",
+        "Ohio challenged this claim, adopting 'Birthplace of Aviation' \u2014 Congress voted in Ohio's favor in 2003, though NC members voted against.",
+        "The Wright Brothers' plane appears on plates from both North Carolina and Ohio."
+      ]
+    },
+    {
+      "state_code": "ND",
+      "state_name": "North Dakota",
+      "capital": "Bismarck",
+      "slogan": "Discover the Spirit",
+      "slogan_since": 2003,
+      "previous_slogans": [
+        "Peace Garden State",
+        "Discover the Spirit"
+      ],
+      "nickname": "The Peace Garden State",
+      "symbols": [
+        "bison",
+        "Theodore Roosevelt National Park"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#000000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "The bison appears on North Dakota's standard plate \u2014 a trivia question used in the treatment."
+      ]
+    },
+    {
+      "state_code": "OH",
+      "state_name": "Ohio",
+      "capital": "Columbus",
+      "slogan": "Birthplace of Aviation",
+      "slogan_since": 1998,
+      "previous_slogans": [
+        "The Heart of It All"
+      ],
+      "nickname": "The Buckeye State",
+      "symbols": [
+        "Wright Flyer",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#CC0000",
+        "accent": "#000080"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Ohio adopted 'Birthplace of Aviation' because the Wright Brothers were native Ohioans.",
+        "Ohio has since moved the slogan into background lettering along with 'Heart of It All'.",
+        "Ohio places a two-number county code sticker on plates."
+      ]
+    },
+    {
+      "state_code": "OK",
+      "state_name": "Oklahoma",
+      "capital": "Oklahoma City",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "Oklahoma is OK",
+        "Native America"
+      ],
+      "nickname": "The Sooner State",
+      "symbols": [
+        "scissor-tailed flycatcher",
+        "wind turbine",
+        "bison",
+        "Route 66"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Oklahoma's plate used to say 'Oklahoma is OK' \u2014 described as one step above 'It doesn't suck too much'.",
+        "The 2017 plate features hand-drawn symbols including wind turbine, bison, Route 66, and the state bird."
+      ]
+    },
+    {
+      "state_code": "OR",
+      "state_name": "Oregon",
+      "capital": "Salem",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [],
+      "nickname": "The Beaver State",
+      "symbols": [
+        "Douglas fir tree",
+        "mountains"
+      ],
+      "plate_colors": {
+        "background": "#FFD700",
+        "text": "#000080",
+        "accent": "#006633"
+      },
+      "time_zone": "Pacific",
+      "notable_facts": [
+        "Oregon's 'Tree' plate features the state tree, the Douglas fir, against a mountainous backdrop."
+      ]
+    },
+    {
+      "state_code": "PA",
+      "state_name": "Pennsylvania",
+      "capital": "Harrisburg",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "You've Got a Friend in Pennsylvania",
+        "Keystone State"
+      ],
+      "nickname": "The Keystone State",
+      "symbols": [
+        "keystone emblem"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#FFD700"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Pennsylvania's plate subtly nods to the 'Keystone State' nickname with a small keystone-shaped emblem.",
+        "Pennsylvania features a state-shaped border that appeared on plates from 1937 through 1970."
+      ]
+    },
+    {
+      "state_code": "RI",
+      "state_name": "Rhode Island",
+      "capital": "Providence",
+      "slogan": "Ocean State",
+      "slogan_since": 1972,
+      "previous_slogans": [],
+      "nickname": "The Ocean State",
+      "symbols": [
+        "wave graphic",
+        "anchor"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#000080"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "America's smallest state has a wave graphic illustrating its 'Ocean State' identity.",
+        "Rhode Island's Rose Island Lighthouse plate was voted best plate of 2024 by ALPCA."
+      ]
+    },
+    {
+      "state_code": "SC",
+      "state_name": "South Carolina",
+      "capital": "Columbia",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "Smiling Faces, Beautiful Places"
+      ],
+      "nickname": "The Palmetto State",
+      "symbols": [
+        "sabal palmetto tree",
+        "crescent moon"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#000080"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "South Carolina's plate incorporates the state tree, the sabal palmetto.",
+        "The 2008-2016 design featured a 'Sunrise' motif."
+      ]
+    },
+    {
+      "state_code": "SD",
+      "state_name": "South Dakota",
+      "capital": "Pierre",
+      "slogan": "Great Faces, Great Places",
+      "slogan_since": 1992,
+      "previous_slogans": [
+        "The Sunshine State (before Florida)",
+        "Land of Infinite Variety"
+      ],
+      "nickname": "The Mount Rushmore State",
+      "symbols": [
+        "Mount Rushmore"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#000000"
+      },
+      "time_zone": "Central/Mountain",
+      "notable_facts": [
+        "South Dakota's 'Great Faces, Great Places' is a nod to Mount Rushmore.",
+        "South Dakota actually used 'The Sunshine State' before Florida did."
+      ]
+    },
+    {
+      "state_code": "TN",
+      "state_name": "Tennessee",
+      "capital": "Nashville",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "Volunteer State",
+        "BicenTENNial (1996-2001)"
+      ],
+      "nickname": "The Volunteer State",
+      "symbols": [
+        "state outline",
+        "three-star emblem",
+        "mountains"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#006633",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Eastern/Central",
+      "notable_facts": [
+        "Tennessee commemorated its 1996 bicentennial with plates labeled 'BicenTENNial', kept as standard until 2001.",
+        "The state outline and three-star emblem from the state flag appear on current plates.",
+        "Some early Tennessee plates were produced in a parallelogram shape approximating the state outline."
+      ]
+    },
+    {
+      "state_code": "TX",
+      "state_name": "Texas",
+      "capital": "Austin",
+      "slogan": "The Lone Star State",
+      "slogan_since": 1936,
+      "previous_slogans": [],
+      "nickname": "The Lone Star State",
+      "symbols": [
+        "lone star",
+        "state flag elements"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#000080"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Texas offers the second-largest number of plate designs (476), outsourcing custom plate production to a private company called My Plates.",
+        "Texas places the county name on the windshield registration sticker, not the plate.",
+        "The 'Lone Star' refers to Texas's former status as an independent republic."
+      ]
+    },
+    {
+      "state_code": "UT",
+      "state_name": "Utah",
+      "capital": "Salt Lake City",
+      "slogan": "Life Elevated",
+      "slogan_since": 2006,
+      "previous_slogans": [
+        "Greatest Snow on Earth",
+        "The Beehive State"
+      ],
+      "nickname": "The Beehive State",
+      "symbols": [
+        "Delicate Arch",
+        "skier",
+        "beehive"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Mountain",
+      "notable_facts": [
+        "Utah offers multiple standard-issue options including a 'Life Elevated Skier' and 'Life Elevated Arches' design.",
+        "The Delicate Arch design shows the iconic natural formation at Arches National Park."
+      ]
+    },
+    {
+      "state_code": "VT",
+      "state_name": "Vermont",
+      "capital": "Montpelier",
+      "slogan": "Green Mountain State",
+      "slogan_since": 1977,
+      "previous_slogans": [
+        "See Vermont"
+      ],
+      "nickname": "The Green Mountain State",
+      "symbols": [],
+      "plate_colors": {
+        "background": "#006633",
+        "text": "#FFFFFF",
+        "accent": "#FFFFFF"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Vermont's plate is lean and green \u2014 78% of the state is covered by forests.",
+        "Vermont has frequently used a white-on-green color scheme."
+      ]
+    },
+    {
+      "state_code": "VA",
+      "state_name": "Virginia",
+      "capital": "Richmond",
+      "slogan": "Virginia is for Lovers",
+      "slogan_since": 1974,
+      "previous_slogans": [],
+      "nickname": "The Old Dominion",
+      "symbols": [],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#000080"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "Virginia's 'Virginia is for Lovers' is one of the most iconic tourism slogans in America.",
+        "Virginia offers 340 specialty plate designs, third most in the nation.",
+        "Virginia notably uses a serif font for its serial dies."
+      ]
+    },
+    {
+      "state_code": "WA",
+      "state_name": "Washington",
+      "capital": "Olympia",
+      "slogan": "Evergreen State",
+      "slogan_since": null,
+      "previous_slogans": [],
+      "nickname": "The Evergreen State",
+      "symbols": [
+        "Mount Rainier"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000080",
+        "accent": "#006633"
+      },
+      "time_zone": "Pacific",
+      "notable_facts": [
+        "Washington's plates depict Mount Rainier, the highest mountain in the Pacific Northwest's Cascade Range."
+      ]
+    },
+    {
+      "state_code": "WV",
+      "state_name": "West Virginia",
+      "capital": "Charleston",
+      "slogan": "Wild, Wonderful",
+      "slogan_since": 1976,
+      "previous_slogans": [
+        "Almost Heaven"
+      ],
+      "nickname": "The Mountain State",
+      "symbols": [
+        "mountains",
+        "state outline"
+      ],
+      "plate_colors": {
+        "background": "#FFD700",
+        "text": "#000080",
+        "accent": "#000080"
+      },
+      "time_zone": "Eastern",
+      "notable_facts": [
+        "West Virginia has used 'Wild, Wonderful' since 1976, one of the longer-running slogans."
+      ]
+    },
+    {
+      "state_code": "WI",
+      "state_name": "Wisconsin",
+      "capital": "Madison",
+      "slogan": "America's Dairyland",
+      "slogan_since": 1940,
+      "previous_slogans": [],
+      "nickname": "The Badger State",
+      "symbols": [
+        "red barn",
+        "farming elements"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#CC0000"
+      },
+      "time_zone": "Central",
+      "notable_facts": [
+        "Wisconsin has used 'America's Dairyland' since 1940.",
+        "In 1985, Wisconsin asked the public for new slogan suggestions. 'Eat Cheese or Die' was among 46,000 submissions but was not selected.",
+        "The standard plate features a red barn \u2014 a key detail used in the treatment's 'What's Missing' game example."
+      ]
+    },
+    {
+      "state_code": "WY",
+      "state_name": "Wyoming",
+      "capital": "Cheyenne",
+      "slogan": "",
+      "slogan_since": null,
+      "previous_slogans": [
+        "The Equality State"
+      ],
+      "nickname": "The Equality State",
+      "symbols": [
+        "cowboy on bucking horse"
+      ],
+      "plate_colors": {
+        "background": "#FFFFFF",
+        "text": "#8B4513",
+        "accent": "#FFD700"
+      },
+      "time_zone": "Mountain",
+      "notable_facts": [
+        "Wyoming's iconic cowboy on a bucking horse has appeared on plates continuously since 1936.",
+        "The original design was paid for with just $75 \u2014 a trivia question from the treatment.",
+        "The bucking horse is one of the most recognizable plate symbols in America."
+      ]
+    }
+  ],
+  "count": 51
+}

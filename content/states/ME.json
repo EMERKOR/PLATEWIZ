@@ -1,0 +1,24 @@
+{
+  "state_code": "ME",
+  "state_name": "Maine",
+  "capital": "Augusta",
+  "slogan": "Vacationland",
+  "slogan_since": 1936,
+  "previous_slogans": [],
+  "nickname": "The Pine Tree State",
+  "symbols": [
+    "pine cone",
+    "black-capped chickadee",
+    "lobster"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Maine's 'Vacationland' is the oldest continuously used license plate slogan in the United States, in use since 1936.",
+    "The pine cone and chickadee (state bird) appear on the standard plate design."
+  ]
+}

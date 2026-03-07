@@ -1,0 +1,24 @@
+{
+  "state_code": "TX",
+  "state_name": "Texas",
+  "capital": "Austin",
+  "slogan": "The Lone Star State",
+  "slogan_since": 1936,
+  "previous_slogans": [],
+  "nickname": "The Lone Star State",
+  "symbols": [
+    "lone star",
+    "state flag elements"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000000",
+    "accent": "#000080"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Texas offers the second-largest number of plate designs (476), outsourcing custom plate production to a private company called My Plates.",
+    "Texas places the county name on the windshield registration sticker, not the plate.",
+    "The 'Lone Star' refers to Texas's former status as an independent republic."
+  ]
+}

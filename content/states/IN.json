@@ -1,0 +1,27 @@
+{
+  "state_code": "IN",
+  "state_name": "Indiana",
+  "capital": "Indianapolis",
+  "slogan": "The Crossroads of America",
+  "slogan_since": 1976,
+  "previous_slogans": [
+    "Hoosier State",
+    "Wander",
+    "Drive Safely"
+  ],
+  "nickname": "The Hoosier State",
+  "symbols": [
+    "torch",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Indiana's 1976 Bicentennial plate began a series with no repeating slogans, cycling through multiple options.",
+    "The first 'In God We Trust' no-cost optional plate launched in 2008."
+  ]
+}

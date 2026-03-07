@@ -1,0 +1,27 @@
+{
+  "state_code": "DC",
+  "state_name": "District of Columbia",
+  "capital": "Washington",
+  "slogan": "End Taxation Without Representation",
+  "slogan_since": 2017,
+  "previous_slogans": [
+    "Taxation Without Representation (2000-2017)",
+    "Nation's Capital (1954-1984)",
+    "A Capital City (1985-2000)"
+  ],
+  "nickname": "DC",
+  "symbols": [
+    "flag",
+    "Capitol dome"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#CC0000",
+    "accent": "#000000"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "DC's plate carries a politically charged slogan protesting the lack of voting representation in Congress.",
+    "The slogan was updated from 'Taxation Without Representation' to 'End Taxation Without Representation' in 2017."
+  ]
+}

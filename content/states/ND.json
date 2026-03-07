@@ -1,0 +1,25 @@
+{
+  "state_code": "ND",
+  "state_name": "North Dakota",
+  "capital": "Bismarck",
+  "slogan": "Discover the Spirit",
+  "slogan_since": 2003,
+  "previous_slogans": [
+    "Peace Garden State",
+    "Discover the Spirit"
+  ],
+  "nickname": "The Peace Garden State",
+  "symbols": [
+    "bison",
+    "Theodore Roosevelt National Park"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#000000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "The bison appears on North Dakota's standard plate \u2014 a trivia question used in the treatment."
+  ]
+}

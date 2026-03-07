@@ -1,0 +1,23 @@
+{
+  "state_code": "NC",
+  "state_name": "North Carolina",
+  "capital": "Raleigh",
+  "slogan": "First in Flight",
+  "slogan_since": 1982,
+  "previous_slogans": [],
+  "nickname": "The Tar Heel State",
+  "symbols": [
+    "Wright Brothers' plane"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#CC0000",
+    "accent": "#000080"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "North Carolina's 'First in Flight' references the Wright Brothers' flights at Kitty Hawk.",
+    "Ohio challenged this claim, adopting 'Birthplace of Aviation' \u2014 Congress voted in Ohio's favor in 2003, though NC members voted against.",
+    "The Wright Brothers' plane appears on plates from both North Carolina and Ohio."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "state_code": "MT",
+  "state_name": "Montana",
+  "capital": "Helena",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "Big Sky Country",
+    "The Treasure State"
+  ],
+  "nickname": "Big Sky Country",
+  "symbols": [
+    "mountains",
+    "sky",
+    "skull emblem"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#FFD700"
+  },
+  "time_zone": "Mountain",
+  "notable_facts": [
+    "Montana's plates feature mountain and sky imagery reflecting the 'Big Sky Country' nickname."
+  ]
+}

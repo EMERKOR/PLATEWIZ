@@ -1,0 +1,25 @@
+{
+  "state_code": "PA",
+  "state_name": "Pennsylvania",
+  "capital": "Harrisburg",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "You've Got a Friend in Pennsylvania",
+    "Keystone State"
+  ],
+  "nickname": "The Keystone State",
+  "symbols": [
+    "keystone emblem"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#FFD700"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Pennsylvania's plate subtly nods to the 'Keystone State' nickname with a small keystone-shaped emblem.",
+    "Pennsylvania features a state-shaped border that appeared on plates from 1937 through 1970."
+  ]
+}

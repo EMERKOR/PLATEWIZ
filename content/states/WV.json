@@ -1,0 +1,24 @@
+{
+  "state_code": "WV",
+  "state_name": "West Virginia",
+  "capital": "Charleston",
+  "slogan": "Wild, Wonderful",
+  "slogan_since": 1976,
+  "previous_slogans": [
+    "Almost Heaven"
+  ],
+  "nickname": "The Mountain State",
+  "symbols": [
+    "mountains",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#FFD700",
+    "text": "#000080",
+    "accent": "#000080"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "West Virginia has used 'Wild, Wonderful' since 1976, one of the longer-running slogans."
+  ]
+}

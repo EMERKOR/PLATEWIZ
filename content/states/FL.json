@@ -1,0 +1,24 @@
+{
+  "state_code": "FL",
+  "state_name": "Florida",
+  "capital": "Tallahassee",
+  "slogan": "Sunshine State",
+  "slogan_since": 1949,
+  "previous_slogans": [],
+  "nickname": "The Sunshine State",
+  "symbols": [
+    "oranges",
+    "state outline",
+    "sunshine"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#006633",
+    "accent": "#FF8C00"
+  },
+  "time_zone": "Eastern/Central",
+  "notable_facts": [
+    "Florida allows residents to choose either 'Sunshine State' or 'In God We Trust' in place of the county name.",
+    "Florida currently offers 122 specialty plates."
+  ]
+}

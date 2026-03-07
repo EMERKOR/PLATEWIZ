@@ -1,0 +1,20 @@
+{
+  "state_code": "MA",
+  "state_name": "Massachusetts",
+  "capital": "Boston",
+  "slogan": "The Spirit of America",
+  "slogan_since": 1987,
+  "previous_slogans": [],
+  "nickname": "The Bay State",
+  "symbols": [],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#CC0000",
+    "accent": "#000080"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Massachusetts' slogan is a truncated version of the former motto: 'The Spirit of Massachusetts is the Spirit of America'.",
+    "The last number on Massachusetts plates indicates the month of registration expiration."
+  ]
+}

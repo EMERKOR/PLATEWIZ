@@ -1,0 +1,24 @@
+{
+  "state_code": "NH",
+  "state_name": "New Hampshire",
+  "capital": "Concord",
+  "slogan": "Live Free or Die",
+  "slogan_since": 1971,
+  "previous_slogans": [
+    "Scenic"
+  ],
+  "nickname": "The Granite State",
+  "symbols": [
+    "Old Man of the Mountain (collapsed 2003)"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#006633",
+    "accent": "#006633"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "New Hampshire unquestionably has the most famous license plate slogan in America.",
+    "The Old Man of the Mountain granite cliff formation, which appeared on plates, collapsed in 2003."
+  ]
+}

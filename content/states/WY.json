@@ -1,0 +1,25 @@
+{
+  "state_code": "WY",
+  "state_name": "Wyoming",
+  "capital": "Cheyenne",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "The Equality State"
+  ],
+  "nickname": "The Equality State",
+  "symbols": [
+    "cowboy on bucking horse"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#8B4513",
+    "accent": "#FFD700"
+  },
+  "time_zone": "Mountain",
+  "notable_facts": [
+    "Wyoming's iconic cowboy on a bucking horse has appeared on plates continuously since 1936.",
+    "The original design was paid for with just $75 \u2014 a trivia question from the treatment.",
+    "The bucking horse is one of the most recognizable plate symbols in America."
+  ]
+}

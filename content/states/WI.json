@@ -1,0 +1,24 @@
+{
+  "state_code": "WI",
+  "state_name": "Wisconsin",
+  "capital": "Madison",
+  "slogan": "America's Dairyland",
+  "slogan_since": 1940,
+  "previous_slogans": [],
+  "nickname": "The Badger State",
+  "symbols": [
+    "red barn",
+    "farming elements"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000000",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Wisconsin has used 'America's Dairyland' since 1940.",
+    "In 1985, Wisconsin asked the public for new slogan suggestions. 'Eat Cheese or Die' was among 46,000 submissions but was not selected.",
+    "The standard plate features a red barn \u2014 a key detail used in the treatment's 'What's Missing' game example."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "state_code": "IA",
+  "state_name": "Iowa",
+  "capital": "Des Moines",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "The Corn State (1953, one year only)"
+  ],
+  "nickname": "The Hawkeye State",
+  "symbols": [
+    "county name",
+    "state silhouette"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Iowa used 'The Corn State' slogan for only one year, 1953, the only time it included a slogan.",
+    "Iowa places the full county name on standard-issue plates."
+  ]
+}

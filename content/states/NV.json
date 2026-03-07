@@ -1,0 +1,25 @@
+{
+  "state_code": "NV",
+  "state_name": "Nevada",
+  "capital": "Carson City",
+  "slogan": "Home Means Nevada",
+  "slogan_since": 1982,
+  "previous_slogans": [
+    "The Silver State"
+  ],
+  "nickname": "The Silver State",
+  "symbols": [
+    "mountain",
+    "desert landscape"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#000000"
+  },
+  "time_zone": "Pacific",
+  "notable_facts": [
+    "The treatment uses a Nevada plate with 'Nevada Means Home' as a 'Plate or Fake' example \u2014 the real slogan is 'Home Means Nevada'.",
+    "Nevada's plates feature a mountain and desert landscape."
+  ]
+}

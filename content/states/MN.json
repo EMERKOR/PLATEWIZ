@@ -1,0 +1,26 @@
+{
+  "state_code": "MN",
+  "state_name": "Minnesota",
+  "capital": "Saint Paul",
+  "slogan": "Explore Minnesota",
+  "slogan_since": 2017,
+  "previous_slogans": [
+    "10,000 Lakes"
+  ],
+  "nickname": "The North Star State",
+  "symbols": [
+    "loon",
+    "lake scene",
+    "trees"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#000000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Minnesota's plate design has been in use since 1978, one of the oldest active designs.",
+    "The loon is Minnesota's state bird and is closely associated with the state's identity."
+  ]
+}

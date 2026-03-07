@@ -1,0 +1,25 @@
+{
+  "state_code": "SC",
+  "state_name": "South Carolina",
+  "capital": "Columbia",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "Smiling Faces, Beautiful Places"
+  ],
+  "nickname": "The Palmetto State",
+  "symbols": [
+    "sabal palmetto tree",
+    "crescent moon"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#000080"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "South Carolina's plate incorporates the state tree, the sabal palmetto.",
+    "The 2008-2016 design featured a 'Sunrise' motif."
+  ]
+}

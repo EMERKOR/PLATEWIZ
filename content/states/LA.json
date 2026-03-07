@@ -1,0 +1,23 @@
+{
+  "state_code": "LA",
+  "state_name": "Louisiana",
+  "capital": "Baton Rouge",
+  "slogan": "Sportsman's Paradise",
+  "slogan_since": 1958,
+  "previous_slogans": [],
+  "nickname": "The Pelican State",
+  "symbols": [
+    "pelican",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000000",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Louisiana's 'Sportsman's Paradise' reflects pride in the state's hunting and fishing options.",
+    "The pelican is Louisiana's state bird and features on many plate designs."
+  ]
+}

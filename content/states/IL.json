@@ -1,0 +1,24 @@
+{
+  "state_code": "IL",
+  "state_name": "Illinois",
+  "capital": "Springfield",
+  "slogan": "Land of Lincoln",
+  "slogan_since": 1954,
+  "previous_slogans": [],
+  "nickname": "The Prairie State",
+  "symbols": [
+    "Abraham Lincoln silhouette",
+    "Capitol dome",
+    "Chicago skyline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Illinois has featured 'Land of Lincoln' since 1954, one of the longest-running slogans.",
+    "The newest plate design features the Capitol dome, the Chicago skyline, and half of Abraham Lincoln's face."
+  ]
+}

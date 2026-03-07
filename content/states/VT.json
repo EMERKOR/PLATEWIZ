@@ -1,0 +1,22 @@
+{
+  "state_code": "VT",
+  "state_name": "Vermont",
+  "capital": "Montpelier",
+  "slogan": "Green Mountain State",
+  "slogan_since": 1977,
+  "previous_slogans": [
+    "See Vermont"
+  ],
+  "nickname": "The Green Mountain State",
+  "symbols": [],
+  "plate_colors": {
+    "background": "#006633",
+    "text": "#FFFFFF",
+    "accent": "#FFFFFF"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Vermont's plate is lean and green \u2014 78% of the state is covered by forests.",
+    "Vermont has frequently used a white-on-green color scheme."
+  ]
+}

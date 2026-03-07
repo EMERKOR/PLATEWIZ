@@ -1,0 +1,24 @@
+{
+  "state_code": "NE",
+  "state_name": "Nebraska",
+  "capital": "Lincoln",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "The Good Life"
+  ],
+  "nickname": "The Cornhusker State",
+  "symbols": [
+    "Chimney Rock",
+    "covered wagon"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Nebraska offers a Planned Parenthood plate displaying 'My Body, My Choice', one of only a few states to do so."
+  ]
+}

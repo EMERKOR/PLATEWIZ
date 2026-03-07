@@ -1,0 +1,28 @@
+{
+  "state_code": "OK",
+  "state_name": "Oklahoma",
+  "capital": "Oklahoma City",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "Oklahoma is OK",
+    "Native America"
+  ],
+  "nickname": "The Sooner State",
+  "symbols": [
+    "scissor-tailed flycatcher",
+    "wind turbine",
+    "bison",
+    "Route 66"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Oklahoma's plate used to say 'Oklahoma is OK' \u2014 described as one step above 'It doesn't suck too much'.",
+    "The 2017 plate features hand-drawn symbols including wind turbine, bison, Route 66, and the state bird."
+  ]
+}

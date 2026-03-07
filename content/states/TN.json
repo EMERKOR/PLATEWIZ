@@ -1,0 +1,28 @@
+{
+  "state_code": "TN",
+  "state_name": "Tennessee",
+  "capital": "Nashville",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "Volunteer State",
+    "BicenTENNial (1996-2001)"
+  ],
+  "nickname": "The Volunteer State",
+  "symbols": [
+    "state outline",
+    "three-star emblem",
+    "mountains"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#006633",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Eastern/Central",
+  "notable_facts": [
+    "Tennessee commemorated its 1996 bicentennial with plates labeled 'BicenTENNial', kept as standard until 2001.",
+    "The state outline and three-star emblem from the state flag appear on current plates.",
+    "Some early Tennessee plates were produced in a parallelogram shape approximating the state outline."
+  ]
+}

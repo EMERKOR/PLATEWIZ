@@ -1,0 +1,23 @@
+{
+  "state_code": "NM",
+  "state_name": "New Mexico",
+  "capital": "Santa Fe",
+  "slogan": "Land of Enchantment",
+  "slogan_since": 1941,
+  "previous_slogans": [],
+  "nickname": "The Land of Enchantment",
+  "symbols": [
+    "Zia sun symbol",
+    "hot air balloons"
+  ],
+  "plate_colors": {
+    "background": "#FFD700",
+    "text": "#CC0000",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Mountain",
+  "notable_facts": [
+    "New Mexico's distinctive red and yellow plate features the Zia sun symbol.",
+    "'Land of Enchantment' has been on plates since 1941."
+  ]
+}

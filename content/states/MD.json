@@ -1,0 +1,26 @@
+{
+  "state_code": "MD",
+  "state_name": "Maryland",
+  "capital": "Annapolis",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "War of 1812 (2010-2016, bicentennial)"
+  ],
+  "nickname": "The Old Line State",
+  "symbols": [
+    "state flag",
+    "Calvert coat of arms"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000000",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Maryland leads the nation with approximately 989 distinct plate designs.",
+    "The current plate incorporates the distinctive state flag design.",
+    "Maryland's National Speleological Society plate had only one registered user between 2018-2022."
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "source": "Derived from jonkeegan/us-license-plates (June/July 2023)",
+    "purpose": "Curated plate index for PLATE WIZ app content",
+    "image_sourcing_note": "Pull images directly from state DMV URLs (source_img_url), not from the Keegan repo",
+    "total_source_plates": 8331,
+    "core_standard_count": 33
+  },
+  "core_standard": {
+    "AK": [
+      {
+        "title": "Standard Gold",
+        "img_filename": "blue-n-gold.png",
+        "dmv_source_url": "https://doa.alaska.gov/dmv/plates/Images/Standard/blue-n-gold.png",
+        "dmv_page": "https://doa.alaska.gov/dmv/plates/index.htm"
+      }
+    ],
+    "AL": [
+      {
+        "title": "Standard Passenger",
+        "img_filename": "2022-passenger-sample-image-scaled.jpg",
+        "dmv_source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2022/04/2022-passenger-sample-image-scaled.jpg",
+        "dmv_page": "https://www.revenue.alabama.gov/license-plates/"
+      }
+    ],
+    "AZ": [
+      {
+        "title": "Standard",
+        "img_filename": "standard-plate.jpg",
+        "dmv_source_url": "https://azdot.gov/sites/default/files/2023-08/standard-plate.jpg",
+        "dmv_page": "https://azdot.gov/standard"
+      }
+    ],
+    "CA": [
+      {
+        "title": "Standard - Black + Gold",
+        "img_filename": "pass-6.gif",
+        "dmv_source_url": "https://www.dmv.ca.gov/portal/uploads/2020/02/pass-6.gif",
+        "dmv_page": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/standard-license-plates/"
+      },
+      {
+        "title": "Standard - Block",
+        "img_filename": "pass-2.gif",
+        "dmv_source_url": "https://www.dmv.ca.gov/portal/uploads/2020/02/pass-2.gif",
+        "dmv_page": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/standard-license-plates/"
+      },
+      {
+        "title": "Standard - Bue + Gold 1",
+        "img_filename": "pass-4.gif",
+        "dmv_source_url": "https://www.dmv.ca.gov/portal/uploads/2020/02/pass-4.gif",
+        "dmv_page": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/standard-license-plates/"
+      },
+      {
+        "title": "Standard - Bue + Gold 2",
+        "img_filename": "pass-5.gif",
+        "dmv_source_url": "https://www.dmv.ca.gov/portal/uploads/2020/02/pass-5.gif",
+        "dmv_page": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/standard-license-plates/"
+      },
+      {
+        "title": "Standard - Script",
+        "img_filename": "pass-1.gif",
+        "dmv_source_url": "https://www.dmv.ca.gov/portal/uploads/2020/02/pass-1.gif",
+        "dmv_page": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/standard-license-plates/"
+      },
+      {
+        "title": "Standard - Sun",
+        "img_filename": "pass-3.gif",
+        "dmv_source_url": "https://www.dmv.ca.gov/portal/uploads/2020/02/pass-3.gif",
+        "dmv_page": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/standard-license-plates/"
+      }
+    ],
+    "FL": [
+      {
+        "title": "Standard  - County",
+        "img_filename": "plate3-1.jpg",
+        "dmv_source_url": "",
+        "dmv_page": "https://www.flhsmv.gov/motor-vehicles-tags-titles/license-plates-registration/"
+      },
+      {
+        "title": "Standard  - In God We Trust",
+        "img_filename": "plate2-1.jpg",
+        "dmv_source_url": "",
+        "dmv_page": "https://www.flhsmv.gov/motor-vehicles-tags-titles/license-plates-registration/"
+      },
+      {
+        "title": "Standard  - Sunshine",
+        "img_filename": "plate1-1.jpg",
+        "dmv_source_url": "",
+        "dmv_page": "https://www.flhsmv.gov/motor-vehicles-tags-titles/license-plates-registration/"
+      }
+    ],
+    "GA": [
+      {
+        "title": "Standard",
+        "img_filename": "AA_Large.jpg",
+        "dmv_source_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/AA_Large.jpg",
+        "dmv_page": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?pcode=AA"
+      },
+      {
+        "title": "Standard Alternate",
+        "img_filename": "A1_Large.jpg",
+        "dmv_source_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/A1_Large.jpg",
+        "dmv_page": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?pcode=A1"
+      }
+    ],
+    "HI": [
+      {
+        "title": "Standard",
+        "img_filename": "standard-plate.jpg",
+        "dmv_source_url": "https://www8.honolulu.gov/csd/wp-content/uploads/sites/6/2023/07/sample.png",
+        "dmv_page": "https://www.honolulu.gov/cms-csd-menu/site-csd-sitearticles/34571-the-hawai%CA%BBi-national-park-license-plates-information.html"
+      }
+    ],
+    "IL": [
+      {
+        "title": "Passenger",
+        "img_filename": "passengervanity.gif",
+        "dmv_source_url": "https://www.ilsos.gov/images/licenseplates/pap/Passenger",
+        "dmv_page": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/passenger.html"
+      }
+    ],
+    "IN": [
+      {
+        "title": "Standard Passenger",
+        "img_filename": "plate-placeholder.jpg",
+        "dmv_source_url": "https://www.in.gov/bmv/registration-plates/images/plates/Standard Passenger",
+        "dmv_page": "https://www.in.gov/bmv/registration-plates/license-plates-overview/license-plate-designs/"
+      }
+    ],
+    "KS": [
+      {
+        "title": "Standard current issue",
+        "img_filename": "KS-plates_image-129.jpg",
+        "dmv_source_url": "",
+        "dmv_page": "https://files.leavenworthcounty.gov/Department/Treasurer/Forms/Kansas%20License%20Plate%20Guide%2012022021.pdf"
+      }
+    ],
+    "KY": [
+      {
+        "title": "Standard Vehicle",
+        "img_filename": "Standard_Vehicle.png",
+        "dmv_source_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=5a29be27-b7ac-4b6e-a0a1-8c4491c2f81e&licensePlateId=030af448-0201-471d-b561-d68376752ef6",
+        "dmv_page": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/Index#00000000-0000-0000-0000-000000000137"
+      },
+      {
+        "title": "Standard Vehicle - In God We Trust",
+        "img_filename": "Standard_Vehicle_-_In_God_We_Trust.png",
+        "dmv_source_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=8fbbd7ad-f93f-4914-891b-207e4ba49bb4&licensePlateId=d949ffb0-c06b-42a2-a865-2548f1460cf8",
+        "dmv_page": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/Index#00000000-0000-0000-0000-000000000138"
+      }
+    ],
+    "ME": [
+      {
+        "title": "Passenger",
+        "img_filename": "PC.gif",
+        "dmv_source_url": "https://www.maine.gov/sos/bmv/images/passengerplt.jpg",
+        "dmv_page": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+      }
+    ],
+    "MO": [
+      {
+        "title": "Standard",
+        "img_filename": "standard.gif",
+        "dmv_source_url": "https://dor.mo.gov/motor-vehicle/plates/images/Standard",
+        "dmv_page": "https://dor.mo.gov/motor-vehicle/plates/personalized-specialty.html#preview"
+      }
+    ],
+    "MS": [
+      {
+        "title": "Passenger",
+        "img_filename": "PHN.PNG",
+        "dmv_source_url": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/Tags%20%26%20Titles/AvailableDriversLicensePlates/PHN.PNG?itok=u1Zwno88",
+        "dmv_page": "PHN.PNG?itok=u1Zwno88"
+      }
+    ],
+    "ND": [
+      {
+        "title": "Standard",
+        "img_filename": "standard.jpg",
+        "dmv_source_url": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/standard.jpg",
+        "dmv_page": "https://apps.nd.gov/dot/mv/mvrenewal/plateSearch.htm"
+      }
+    ],
+    "NH": [
+      {
+        "title": "Passenger",
+        "img_filename": "NH-plates_image-025.jpg",
+        "dmv_source_url": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/list-of-plates-table.pdf",
+        "dmv_page": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/list-of-plates-table.pdf"
+      }
+    ],
+    "NJ": [
+      {
+        "title": "Standard",
+        "img_filename": "standard.jpg",
+        "dmv_source_url": "https://www.state.nj.us/mvc/images/standard.jpg",
+        "dmv_page": "https://www.state.nj.us/mvc/vehicles/standplates.htm"
+      }
+    ],
+    "NM": [
+      {
+        "title": "Standard Centennial License Plate",
+        "img_filename": "TurquoiseNM100-1.jpg",
+        "dmv_source_url": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Standard Centennial License Plate",
+        "dmv_page": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+      },
+      {
+        "title": "Standard Red and Yellow License Plate",
+        "img_filename": "Standard-Red-and-Yellow-License-Plate.png",
+        "dmv_source_url": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Standard Red and Yellow License Plate",
+        "dmv_page": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+      }
+    ],
+    "OR": [
+      {
+        "title": "Standard Tree",
+        "img_filename": "OR-op_image-000.jpg",
+        "dmv_source_url": "",
+        "dmv_page": "https://www.oregon.gov/odot/DMV/docs/Regular_Plates.pdf"
+      }
+    ],
+    "SD": [
+      {
+        "title": "Standard South Dakota License Plates",
+        "img_filename": "standard-plate.png",
+        "dmv_source_url": "https://dor.sd.gov/media/fv3jypr0/standard-plate.png?width=207&height=100",
+        "dmv_page": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/#plates"
+      }
+    ],
+    "VA": [
+      {
+        "title": "Passenger Standard Issue",
+        "img_filename": "pavl.jpg",
+        "dmv_source_url": "https://www.dmv.virginia.gov/azure/plates/images/plates/pavl.jpg",
+        "dmv_page": "https://www.dmv.virginia.gov/vehicles/splates/info.asp?idnm=PAVL"
+      }
+    ],
+    "WV": [
+      {
+        "title": "Standard",
+        "img_filename": "Standard.jpg",
+        "dmv_source_url": "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/PublishingImages/LicensePlateImages/Large/Standard",
+        "dmv_page": "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/Pages/Special-Plate.aspx?p=3"
+      }
+    ],
+    "WY": [
+      {
+        "title": "Standard",
+        "img_filename": "2017 SAMPLE.jpg",
+        "dmv_source_url": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2017%20SAMPLE.jpg",
+        "dmv_page": "https://www.dot.state.wy.us/home/titles_plates_registration.html"
+      }
+    ]
+  },
+  "states_needing_manual_id": [
+    "AR",
+    "CO",
+    "CT",
+    "DC",
+    "DE",
+    "IA",
+    "ID",
+    "LA",
+    "MA",
+    "MD",
+    "MI",
+    "MN",
+    "MT",
+    "NC",
+    "NE",
+    "NV",
+    "NY",
+    "OH",
+    "OK",
+    "PA",
+    "RI",
+    "SC",
+    "TN",
+    "TX",
+    "UT",
+    "VT",
+    "WA",
+    "WI"
+  ]
+}

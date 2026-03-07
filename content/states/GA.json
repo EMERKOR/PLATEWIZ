@@ -1,0 +1,25 @@
+{
+  "state_code": "GA",
+  "state_name": "Georgia",
+  "capital": "Atlanta",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "Peach State"
+  ],
+  "nickname": "The Peach State",
+  "symbols": [
+    "peach",
+    "state outline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000000",
+    "accent": "#CC0000"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Georgia allows residents to choose from the county name or 'In God We Trust'.",
+    "Georgia places the full name of the county of registration on standard-issue plates."
+  ]
+}

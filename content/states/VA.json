@@ -1,0 +1,21 @@
+{
+  "state_code": "VA",
+  "state_name": "Virginia",
+  "capital": "Richmond",
+  "slogan": "Virginia is for Lovers",
+  "slogan_since": 1974,
+  "previous_slogans": [],
+  "nickname": "The Old Dominion",
+  "symbols": [],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000080",
+    "accent": "#000080"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Virginia's 'Virginia is for Lovers' is one of the most iconic tourism slogans in America.",
+    "Virginia offers 340 specialty plate designs, third most in the nation.",
+    "Virginia notably uses a serif font for its serial dies."
+  ]
+}

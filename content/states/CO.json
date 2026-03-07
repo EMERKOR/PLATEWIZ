@@ -1,0 +1,25 @@
+{
+  "state_code": "CO",
+  "state_name": "Colorado",
+  "capital": "Denver",
+  "slogan": "",
+  "slogan_since": null,
+  "previous_slogans": [
+    "Colorful Colorado"
+  ],
+  "nickname": "The Centennial State",
+  "symbols": [
+    "mountains",
+    "green and white design"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#006633",
+    "accent": "#006633"
+  },
+  "time_zone": "Mountain",
+  "notable_facts": [
+    "Colorado's plate is embossed with a mountain design, fitting for the Rocky Mountain state.",
+    "The style hasn't changed much since the 1960s, making it one of the oldest active designs."
+  ]
+}

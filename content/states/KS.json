@@ -1,0 +1,26 @@
+{
+  "state_code": "KS",
+  "state_name": "Kansas",
+  "capital": "Topeka",
+  "slogan": "To the Stars",
+  "slogan_since": 2024,
+  "previous_slogans": [
+    "Midway USA (1965-1970)"
+  ],
+  "nickname": "The Sunflower State",
+  "symbols": [
+    "wheat",
+    "bison",
+    "sunflower"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#000000",
+    "accent": "#FFD700"
+  },
+  "time_zone": "Central",
+  "notable_facts": [
+    "Kansas went nearly 50 years without a plate slogan before adding 'To the Stars' in 2024.",
+    "The slogan is based on the state motto 'Ad Astra Per Aspera' (To the stars through difficulty)."
+  ]
+}

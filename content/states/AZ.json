@@ -1,0 +1,24 @@
+{
+  "state_code": "AZ",
+  "state_name": "Arizona",
+  "capital": "Phoenix",
+  "slogan": "Grand Canyon State",
+  "slogan_since": 1940,
+  "previous_slogans": [],
+  "nickname": "The Grand Canyon State",
+  "symbols": [
+    "saguaro cactus",
+    "sunset",
+    "Grand Canyon"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#CC0000",
+    "accent": "#FFD700"
+  },
+  "time_zone": "Mountain",
+  "notable_facts": [
+    "Arizona has used 'Grand Canyon State' since 1940, making it one of the longest-running slogans.",
+    "Arizona's plate features a distinctive sunset gradient design."
+  ]
+}

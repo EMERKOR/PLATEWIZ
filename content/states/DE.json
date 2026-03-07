@@ -1,0 +1,21 @@
+{
+  "state_code": "DE",
+  "state_name": "Delaware",
+  "capital": "Dover",
+  "slogan": "The First State",
+  "slogan_since": 1963,
+  "previous_slogans": [],
+  "nickname": "The First State",
+  "symbols": [],
+  "plate_colors": {
+    "background": "#000000",
+    "text": "#FFD700",
+    "accent": "#FFD700"
+  },
+  "time_zone": "Eastern",
+  "notable_facts": [
+    "Delaware's plates have featured gold text on a black background since the 1960s.",
+    "Delaware has the oldest plate design currently in use, dating to 1959.",
+    "Delaware ratified the US Constitution before any other state on December 7, 1787."
+  ]
+}

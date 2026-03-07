@@ -1,0 +1,25 @@
+{
+  "state_code": "ID",
+  "state_name": "Idaho",
+  "capital": "Boise",
+  "slogan": "Famous Potatoes",
+  "slogan_since": 1948,
+  "previous_slogans": [
+    "Idaho Potatoes (1928-1948)"
+  ],
+  "nickname": "The Gem State",
+  "symbols": [
+    "mountains",
+    "license plate outline"
+  ],
+  "plate_colors": {
+    "background": "#FFFFFF",
+    "text": "#CC0000",
+    "accent": "#000000"
+  },
+  "time_zone": "Mountain",
+  "notable_facts": [
+    "Idaho was the first state to feature a slogan on its license plate, in 1928, reading 'IDAHO POTATOES'.",
+    "The official state motto is 'Esto Perpetua' (Let it be perpetual), but the plate uses the more commercial 'Famous Potatoes'."
+  ]
+}
